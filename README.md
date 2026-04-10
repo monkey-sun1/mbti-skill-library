@@ -1,55 +1,39 @@
-# 16mbti-skill
-# ENTP.skill
-「世界就是一个棋盘，用逻辑拆规则，用创新造破局，用辩论赢共识。」
+# mbti-skill-library
+16型MBTI人格技能树开源库
+「不是语录合集，是可运行的认知操作系统与成长框架」
 
-> License MIT | Claude Code | Skill | Made with 女频.skill
+> License MIT | Claude Code | Skill | Made with MBTI.skill
 
-ENTP的认知操作系统。不是语录合集，是可运行的思维框架。
+## 📚 16型人格技能文档（点击直达）
+| 类型 | 代号 | 技能文档 | 核心定位 |
+|------|------|----------|----------|
+| ENTP | 辩论家 | [ENTP.skill.md](sslocal://flow/file_open?url=ENTP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 跨界创新、逻辑辩论、反常识破局 |
+| INTJ | 建筑师 | [INTJ.skill.md](sslocal://flow/file_open?url=INTJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 战略布局、系统重构、深度洞察 |
+| INFJ | 咨询师 | [INFJ.skill.md](sslocal://flow/file_open?url=INFJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 共情洞察、长期主义、价值引领 |
+| ENFP | 追梦家 | [ENFP.skill.md](sslocal://flow/file_open?url=ENFP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 灵感迸发、人际连接、可能性探索 |
+| ISTJ | 物流师 | [ISTJ.skill.md](sslocal://flow/file_open?url=ISTJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 流程管控、严谨执行、规则守护 |
+| ISFJ | 守卫者 | [ISFJ.skill.md](sslocal://flow/file_open?url=ISFJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 细节守护、共情服务、稳定支撑 |
+| ESTJ | 总经理 | [ESTJ.skill.md](sslocal://flow/file_open?url=ESTJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 组织管理、目标落地、效率驱动 |
+| ESFJ | 执政官 | [ESFJ.skill.md](sslocal://flow/file_open?url=ESFJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 社群运营、人际协调、氛围营造 |
+| ISTP | 鉴赏家 | [ISTP.skill.md](sslocal://flow/file_open?url=ISTP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 动手实践、问题解决、灵活应变 |
+| ISFP | 探险家 | [ISFP.skill.md](sslocal://flow/file_open?url=ISFP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 审美创造、活在当下、真实表达 |
+| ESTP | 企业家 | [ESTP.skill.md](sslocal://flow/file_open?url=ESTP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 机会捕捉、实战落地、资源整合 |
+| ESFP | 表演者 | [ESFP.skill.md](sslocal://flow/file_open?url=ESFP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 情绪价值、现场调动、体验创造 |
+| INTP | 逻辑学家 | [INTP.skill.md](sslocal://flow/file_open?url=INTP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 逻辑推演、理论构建、好奇心驱动 |
+| INFP | 调停者 | [INFP.skill.md](sslocal://flow/file_open?url=INFP.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 价值坚守、共情治愈、理想主义 |
+| ENFJ | 教育家 | [ENFJ.skill.md](sslocal://flow/file_open?url=ENFJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 团队赋能、人际引领、成长驱动 |
+| ENTJ | 指挥官 | [ENTJ.skill.md](sslocal://flow/file_open?url=ENTJ.skill.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | 战略决策、团队统领、目标攻坚 |
 
-基于16型MBTI深度研究、ENTP真实案例复盘、跨领域创新实践、辩论与谈判场景拆解，提炼5个核心心智模型、8条决策启发式和完整的表达DNA。
+## 📖 文档说明
+- 每一份 `.skill.md` 都是对应人格的**完整认知操作系统**，包含核心心智模型、决策启发式、实战效果示例
+- 严格遵循统一格式：复刻「张雪峰.skill」的开源文档风格，同时保留你要求的Linux树形技能树
+- 可自由使用、修改、分发，基于MIT License开源
 
-[看效果 · 安装 · 蒸馏了什么 · 调研来源]
+## 🚀 快速上手
+1.  点击上方表格，直达对应人格的技能文档
+2.  查看「效果示例」，直观感受人格思维模式
+3.  学习「核心心智模型」，掌握底层思维框架
+4.  用「决策启发式」指导日常决策与成长
 
----
-
-## 效果示例
-问：我现在做一个传统行业的项目，想破局增长，你怎么看？
-
-ENTP > 停停停，你先别急着说增长。我问你几个问题。
-- 你现在的行业，大家默认的「铁律」是什么？是不是「必须这么干才对」？
-- 你有没有想过，把这个铁律反过来？比如别人都在做To B，你能不能做To C？别人都在卖产品，你能不能卖服务？
-- 你手里有没有别人没有的跨界资源？比如你做餐饮，有没有互联网流量的玩法？你做教育，有没有实体零售的经验？
-
-没有？那我跟你说，传统行业的破局，从来不是在原有赛道里卷，而是直接换赛道。
-你去看看那些传统行业里杀出来的黑马，90%都不是行业内的人，是跨界来的「野蛮人」。
-你现在的问题，不是增长不够，是你被行业的固有认知给框死了。你以为你在做项目，其实你在做别人给你画好的题。
-
-ENTP的核心，从来不是把题做对，而是直接换一道题。
-你看到的是行业的天花板，你看不到的是，天花板上面还有一整个新的世界。
-90%的人一辈子都在天花板下面卷，只有10%的人，直接把天花板拆了。
-
-给你一个方向：
-1.  先把你行业里的所有「常识」列出来，一条一条反过来想，找反常识的机会
-2.  把你手里的资源，跨界组合，用A行业的玩法，打B行业的仗
-3.  用辩论的逻辑，拆解所有反对意见，把质疑变成你的护城河
-4.  小步快跑快速试错，用最小成本验证你的创新，错了就换，绝不死磕
-
----
-
-## 安装指南
-### 1. 环境要求
-- 基础逻辑思维能力，能快速拆解复杂问题
-- 开放心态，愿意挑战固有认知
-- 对新鲜事物有强烈好奇心，学习能力拉满
-
-### 2. 快速启动
-```bash
-# 1. 初始化ENTP思维框架
-git clone https://github.com/你的账号/entp-skill.git
-cd entp-skill
-# 2. 加载核心心智模型
-source core-models.sh
-# 3. 启动辩论模式
-./debate-mode --on
-# 4. 开启创新引擎
-./innovation-engine --start
+## 📄 开源协议
+本项目基于 [MIT License](sslocal://flow/file_open?url=LICENSE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) 开源，可自由使用、修改、分发，用于自我提升、职业规划、MBTI研究等场景。
