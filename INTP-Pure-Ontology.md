@@ -1,4 +1,4 @@
-# INTP\-Pure\-Ontology\-Skill（Markdown版）
+# INTP\-Pure\-Ontology\-Skill
 
 \# INTP\-Pure\-Ontology\-Skill
 
