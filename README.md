@@ -33,6 +33,15 @@
 2.  查看「效果示例」，直观感受人格思维模式
 3.  学习「核心心智模型」，掌握底层思维框架
 4.  用「决策启发式」指导日常决策与成长
-
+## 开源库
+三个skill的GitHub地址直
+1、名人滤镜
+把蒸馏来的skill作为分析镜片，用人物思维框架解读真实数据（隐曜杂货铺）
+https://github.com/xiaoshiyilangzhao1996-droid/celebrity-filter女娲.skill
+2、蒸馏任何人的思维方式（花叔出品）
+https://github.com/alchaincyf/nuwa-skill达尔文.skill
+3、让你的skill无限进化（花叔出品）
+https://github.com/alchaincyf/darwin-skill
 ## 📄 开源协议
 本项目基于 [MIT License](sslocal://flow/file_open?url=LICENSE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) 开源，可自由使用、修改、分发，用于自我提升、职业规划、MBTI研究等场景。
+
