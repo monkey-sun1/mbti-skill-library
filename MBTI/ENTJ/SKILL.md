@@ -1,4 +1,4 @@
-# ENTJ\-Pure\-Ontology\-Skill（Markdown版）
+# ENTJ\-Pure\-Ontology\-Skill
 
 \# ENTJ\-Pure\-Ontology\-Skill
 
